@@ -1,0 +1,1 @@
+In this project, I have blended flexbox and grid into one page showcasing that both can be done. I did my best implementing mobile screen sizing display.
